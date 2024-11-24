@@ -16,10 +16,6 @@ Before you begin, ensure you have met the following requirements:
 
 - [Node.js](https://nodejs.org/) installed on your machine.
 - A MongoDB Atlas account and a connection string (URI).
-- A `.env` file in your project root with the following variables:
-  ```plaintext
-  MONGO_URI=your_mongodb_atlas_connection_string
-  PORT=5000
 
 ## Technologies Used
 
@@ -59,10 +55,10 @@ Before you begin, ensure you have met the following requirements:
    ```
    node server.js
    ```
-7. The server will be running on `http://localhost:3000`.
+7. The server will be running on `http://localhost:****`.
    ```
-   Server listening on port 5000
-   Server running on: http://127.0.0.1:5000
+   Server listening on port ****
+   Server running on: http://127.0.0.1:****
    Database connection successful
    ```
 
